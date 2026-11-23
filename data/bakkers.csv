@@ -1,0 +1,128 @@
+trade,town,measurement,answers_in_town,name,answers_with_name,answers_chatgpt,answers_aio,answers_aimode
+bakkers,Alkmaar,november 2026,10,A.C. de Boer,7,2,2,3
+bakkers,Alkmaar,november 2026,10,Bakkerij Beerse,6,3,1,2
+bakkers,Alkmaar,november 2026,10,Bakkerij Raat,6,3,1,2
+bakkers,Alkmaar,november 2026,10,Baking Spree NL,3,1,1,1
+bakkers,Alkmaar,november 2026,10,La Vie Locale,3,3,0,0
+bakkers,Almere,november 2026,12,Bakkerij Abbekerk,7,3,3,1
+bakkers,Almere,november 2026,12,Bakkerij de Tureluur,6,3,2,1
+bakkers,Almere,november 2026,12,Bakkerij Puur uit de Schuur,6,2,3,1
+bakkers,Almere,november 2026,12,BroodLetter,5,2,3,0
+bakkers,Almere,november 2026,12,Craft Coffee & Pastry Almere,4,2,2,0
+bakkers,Alphen aan den Rijn,november 2026,11,Zonneveld's Bakkerij,9,4,3,2
+bakkers,Alphen aan den Rijn,november 2026,11,Banketbakkerij Stevers,7,2,3,2
+bakkers,Alphen aan den Rijn,november 2026,11,BROOD&KO,7,2,2,3
+bakkers,Alphen aan den Rijn,november 2026,11,"Bakkerij ""Assalam""",4,1,1,2
+bakkers,Alphen aan den Rijn,november 2026,11,Baksels van Vera,3,1,1,1
+bakkers,Alphen aan den Rijn,november 2026,11,Sweetjes,3,1,2,0
+bakkers,Amstelveen,november 2026,11,Urban Bakers,7,3,2,2
+bakkers,Amstelveen,november 2026,11,Bakkerij De Zeeuw,6,3,1,2
+bakkers,Amstelveen,november 2026,11,Koolhaas Banket,6,2,1,3
+bakkers,Amstelveen,november 2026,11,Le Fournil de Sébastien,6,3,2,1
+bakkers,Amstelveen,november 2026,11,Brood en banketbakkerij Hulleman,4,1,1,2
+bakkers,Amstelveen,november 2026,11,Patisserie Prenger,4,1,2,1
+bakkers,Apeldoorn,november 2026,11,Banketbakkerij Maassen,8,3,2,3
+bakkers,Apeldoorn,november 2026,11,Echte Bakker Keurhorst,7,3,2,2
+bakkers,Apeldoorn,november 2026,11,Bakkerij De Ochtendstond,6,3,2,1
+bakkers,Apeldoorn,november 2026,11,Banketbakkerij Jolink,5,2,2,1
+bakkers,Apeldoorn,november 2026,11,Banketbakkerij Zandstra,5,2,3,0
+bakkers,Arnhem,november 2026,12,Het Arnhemse Bakkertje,9,3,3,3
+bakkers,Arnhem,november 2026,12,Bakkerista,7,3,2,2
+bakkers,Arnhem,november 2026,12,Patisserie Christiaan,5,2,2,1
+bakkers,Arnhem,november 2026,12,Pâtisserie Julie,5,2,2,1
+bakkers,Arnhem,november 2026,12,Bakker Derks,4,0,2,2
+bakkers,Arnhem,november 2026,12,Bakker Hilvers,4,0,3,1
+bakkers,Assen,november 2026,12,Bakkerij Alsady,9,4,3,2
+bakkers,Assen,november 2026,12,De Echte Bakker Pots,9,3,3,3
+bakkers,Assen,november 2026,12,"Jan Fleddérus, De Echte Bakker",7,2,2,3
+bakkers,Assen,november 2026,12,Banketbakkerij Gosselaar,6,3,3,0
+bakkers,Assen,november 2026,12,Cakes By Karin,3,1,1,1
+bakkers,Assen,november 2026,12,Taart & Cart Art Nederland,3,1,1,1
+bakkers,Breda,november 2026,12,De Broodbakkers,9,3,3,3
+bakkers,Breda,november 2026,12,Echt Brood,8,3,3,2
+bakkers,Breda,november 2026,12,Banketbakkerij Van der Kleij,7,2,3,2
+bakkers,Breda,november 2026,12,Bakkerij Van Thillo,6,3,2,1
+bakkers,Breda,november 2026,12,FOGO Bakehouse,5,3,1,1
+bakkers,Breda,november 2026,12,Teurlings Banketbakkerij,5,0,2,3
+bakkers,Delft,november 2026,12,Stadsbakkerij De Diamanten Ring,9,4,4,1
+bakkers,Delft,november 2026,12,Bakkerij Peterse,7,3,1,3
+bakkers,Delft,november 2026,12,Bakkerij Leffers (Meneer Leffers),6,3,3,0
+bakkers,Delft,november 2026,12,Bakker Suikerbuik,5,0,2,3
+bakkers,Delft,november 2026,12,Boulangerie Michel,5,1,3,1
+bakkers,Deventer,november 2026,12,Ambachtsbakker Kuiper,7,3,1,3
+bakkers,Deventer,november 2026,12,Banketbakkerij Lentelink,7,3,3,1
+bakkers,Deventer,november 2026,12,De Stadsbakkerij Deventer,7,3,3,1
+bakkers,Deventer,november 2026,12,Bakkerij Petit Four,5,1,3,1
+bakkers,Deventer,november 2026,12,"Terpstra & Wessels, De Echte Bakker",4,1,2,1
+bakkers,Ede,november 2026,11,Bakkerij ten Veen,7,3,2,2
+bakkers,Ede,november 2026,11,Echte Bakker van der Veer,7,3,3,1
+bakkers,Ede,november 2026,11,Bakkerij van Voorthuizen,6,1,2,3
+bakkers,Ede,november 2026,11,Jorisbrood,5,3,2,0
+bakkers,Ede,november 2026,11,Martins Bakkerij,5,2,0,3
+bakkers,Eindhoven,november 2026,12,Bakkerij Renders,10,4,4,2
+bakkers,Eindhoven,november 2026,12,Stadsbakkerij Broodt,7,3,3,1
+bakkers,Eindhoven,november 2026,12,Hartogs Brood- en Banketbakkerij,6,1,2,3
+bakkers,Eindhoven,november 2026,12,Sourmate,6,3,2,1
+bakkers,Eindhoven,november 2026,12,Bakkerij Jack Poell,4,1,1,2
+bakkers,Eindhoven,november 2026,12,KOKLIKO bakery,4,3,1,0
+bakkers,Enschede,november 2026,12,Bakkerij Oonk,9,3,3,3
+bakkers,Enschede,november 2026,12,Petit Bakkerie,7,3,3,1
+bakkers,Enschede,november 2026,12,Bakkerij Nollen,6,1,3,2
+bakkers,Enschede,november 2026,12,Bakkers van Alink,6,2,1,3
+bakkers,Enschede,november 2026,12,Bitterzoet Enschede,4,2,2,0
+bakkers,Gouda,november 2026,11,Banketbakkerij Van Dijk,8,3,3,2
+bakkers,Gouda,november 2026,11,Berg's Bakery,8,3,3,2
+bakkers,Gouda,november 2026,11,Banketbakkerij De Vlaam,7,0,3,4
+bakkers,Gouda,november 2026,11,Bakkerij NOUR,6,2,1,3
+bakkers,Gouda,november 2026,11,Sam's Bakery & lunchroom,5,3,1,1
+bakkers,Groningen,november 2026,11,Borgman Banketbakkerij,6,2,2,2
+bakkers,Groningen,november 2026,11,Broodje Van Eigen Deeg,6,3,2,1
+bakkers,Groningen,november 2026,11,Warme Bakker Rob van Dijk,6,1,2,3
+bakkers,Groningen,november 2026,11,Broodnodig Groningen,4,1,1,2
+bakkers,Groningen,november 2026,11,OMNI,4,3,1,0
+bakkers,Hengelo,november 2026,9,Bakkerij Wouda (De Echte Bakker),7,3,0,4
+bakkers,Hengelo,november 2026,9,De Zweedse bakker,7,3,1,3
+bakkers,Hengelo,november 2026,9,Bakkerij Oonk,6,4,1,1
+bakkers,Hengelo,november 2026,9,Banketbakkerij Gustaf,6,3,1,2
+bakkers,Hengelo,november 2026,9,Bakkerij Nollen Hengelo,3,3,0,0
+bakkers,Hilversum,november 2026,12,Matthijs Boon,9,3,3,3
+bakkers,Hilversum,november 2026,12,Le Fournil de Sébastien,8,3,3,2
+bakkers,Hilversum,november 2026,12,Banketbakkerij Van Ommeren,5,3,0,2
+bakkers,Hoorn,november 2026,12,Bakkerij Smit,9,3,3,3
+bakkers,Hoorn,november 2026,12,Bakkerij Otten,8,4,3,1
+bakkers,Hoorn,november 2026,12,De Bakker van Hoorn,7,3,3,1
+bakkers,Hoorn,november 2026,12,v.d. Berg's Banketbakkerij,6,1,3,2
+bakkers,Hoorn,november 2026,12,Finnes Patisserie,3,1,1,1
+bakkers,Hoorn,november 2026,12,The Hoorn Bakery,3,3,0,0
+bakkers,Hoorn,november 2026,12,Zoet!,3,1,1,1
+bakkers,Kampen,november 2026,12,Bakkerij Vermeij,12,4,4,4
+bakkers,Kampen,november 2026,12,Bakkerij Happen,8,3,3,2
+bakkers,Kampen,november 2026,12,Bakkerij Breet,7,4,3,0
+bakkers,Kampen,november 2026,12,Banketbakkerij Smit,6,2,3,1
+bakkers,Kampen,november 2026,12,Bakkerij van Kampen B.V.,3,0,0,3
+bakkers,Nijmegen,november 2026,12,Stadsbakkerij De Bie,8,2,3,3
+bakkers,Nijmegen,november 2026,12,De Knollentuin,6,3,2,1
+bakkers,Nijmegen,november 2026,12,Bakkerij 't Kraayennest,4,1,2,1
+bakkers,Nijmegen,november 2026,12,BRodijnen,4,3,1,0
+bakkers,Nijmegen,november 2026,12,Holy Sweets,4,2,1,1
+bakkers,Nijmegen,november 2026,12,Streekbakker Jorrit,4,1,2,1
+bakkers,Purmerend,november 2026,12,Banketbakkerij Mastenbroek,9,2,4,3
+bakkers,Purmerend,november 2026,12,Echte Bakkers Harry de Groot,8,3,3,2
+bakkers,Purmerend,november 2026,12,Banketbakkerij Michel Limmen,7,3,3,1
+bakkers,Purmerend,november 2026,12,Daantjes Taarten,2,1,1,0
+bakkers,Purmerend,november 2026,12,Schwarzwälder Brood,2,1,1,0
+bakkers,Zeist,november 2026,11,Echte Bakker van der Woerd,10,3,3,4
+bakkers,Zeist,november 2026,11,Albert Bakt,9,3,2,4
+bakkers,Zeist,november 2026,11,Het Broodlokaal,6,0,2,4
+bakkers,Zeist,november 2026,11,Top's Edelgebak,6,2,3,1
+bakkers,Zeist,november 2026,11,Bakkerij Basak,5,2,1,2
+bakkers,Zoetermeer,november 2026,12,Black Bird Bakery,8,3,3,2
+bakkers,Zoetermeer,november 2026,12,Jongerius Bakker,8,3,2,3
+bakkers,Zoetermeer,november 2026,12,Bakker Ammerlaan,7,2,3,2
+bakkers,Zoetermeer,november 2026,12,Banketbakkerij Maison Kelder,5,2,3,0
+bakkers,Zoetermeer,november 2026,12,De Bakkerswinkel,5,1,3,1
+bakkers,Zwolle,november 2026,12,Lindeboom Patisserie,7,3,3,1
+bakkers,Zwolle,november 2026,12,De Stadsbakker,6,3,2,1
+bakkers,Zwolle,november 2026,12,The Bread Company Zwolle,6,2,2,2
+bakkers,Zwolle,november 2026,12,Bakkerij de Verwennerij,5,0,2,3
+bakkers,Zwolle,november 2026,12,Everyday Bread... & Coffee,5,1,3,1

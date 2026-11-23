@@ -1,0 +1,186 @@
+trade,town,measurement,answers_in_town,name,answers_with_name,answers_chatgpt,answers_aio,answers_aimode
+accountants,Almere,november 2026,11,A-Fiscaal,5,3,1,1
+accountants,Almere,november 2026,11,ZJ Advies,4,3,0,1
+accountants,Almere,november 2026,11,AAKV Accountants,3,1,2,0
+accountants,Almere,november 2026,11,Admini-Desk,3,3,0,0
+accountants,Almere,november 2026,11,Digamma,3,1,0,2
+accountants,Almere,november 2026,11,DK Accountants & Adviseurs,3,1,1,1
+accountants,Almere,november 2026,11,Flynth Almere,3,0,2,1
+accountants,Amsterdam,november 2026,24,Van Passe,9,3,2,4
+accountants,Amsterdam,november 2026,24,FinWoo Bookkeeping & Tax,6,5,1,0
+accountants,Amsterdam,november 2026,24,AA Accountancy Amsterdam,5,5,0,0
+accountants,Amsterdam,november 2026,24,Tavares Administraties,5,5,0,0
+accountants,Amsterdam,november 2026,24,CONTAS Accounting & Tax Services,4,4,0,0
+accountants,Amsterdam,november 2026,24,Peter Brink,4,0,2,2
+accountants,Amsterdam,november 2026,24,Wetaxus B.V.,4,2,1,1
+accountants,Baarn,november 2026,12,Duurzaam administratie en advies B.V.,8,4,2,2
+accountants,Baarn,november 2026,12,Kooij & Sieben Administratie en Advies,6,1,3,2
+accountants,Baarn,november 2026,12,ZM Groep (Zwart Mul),6,2,2,2
+accountants,Baarn,november 2026,12,Meerwijk Allister Groep,4,2,1,1
+accountants,Baarn,november 2026,12,Tax Relax B.V.,4,2,2,0
+accountants,Bodegraven,november 2026,12,Administratiekantoor Bodegraven,11,4,3,4
+accountants,Bodegraven,november 2026,12,A4 Accountancy & Advies,10,3,3,4
+accountants,Bodegraven,november 2026,12,Doornekamp ABC Bedrijfsadviseurs,7,3,3,1
+accountants,Bodegraven,november 2026,12,BoekMar Bodegraven,6,4,2,0
+accountants,Bodegraven,november 2026,12,Administratiekantoor Terlouw,4,2,1,1
+accountants,Bodegraven,november 2026,12,De Waal Accountants,4,1,2,1
+accountants,Bodegraven,november 2026,12,Slof & Wildenburg,4,0,3,1
+accountants,Breda,november 2026,11,Fiddelers,7,4,1,2
+accountants,Breda,november 2026,11,Administratiekantoor PTFS,3,2,0,1
+accountants,Breda,november 2026,11,Dijksterhuis,3,2,1,0
+accountants,Breda,november 2026,11,PNA Administratie,3,2,1,0
+accountants,Breda,november 2026,11,216 Accountants,2,1,1,0
+accountants,Breda,november 2026,11,Flynth Breda,2,0,1,1
+accountants,Breda,november 2026,11,Van Oers,2,2,0,0
+accountants,Bussum,november 2026,12,Moore MKW Bussum,7,2,3,2
+accountants,Bussum,november 2026,12,Accountantskantoor C.J. van Beek & Co,6,3,3,0
+accountants,Bussum,november 2026,12,Cijferplan,5,3,2,0
+accountants,Bussum,november 2026,12,Administratiekantoor Ligterink en De Wit,4,1,1,2
+accountants,Bussum,november 2026,12,Kuperus en Partners BV,4,1,1,2
+accountants,Culemborg,november 2026,11,Grever Administraties,6,2,2,2
+accountants,Culemborg,november 2026,11,ST&A,6,4,2,0
+accountants,Culemborg,november 2026,11,Stouten & Wijnen Accountants,6,2,2,2
+accountants,Culemborg,november 2026,11,Cijferz Accountants & Fiscalisten,5,2,1,2
+accountants,Culemborg,november 2026,11,AFAG Advies,3,0,1,2
+accountants,Culemborg,november 2026,11,WEA Deltaland,3,1,2,0
+accountants,Delft,november 2026,12,Plus Administratie & Belastingadvies,9,4,2,3
+accountants,Delft,november 2026,12,Primain Administraties & Belastingadviezen,4,4,0,0
+accountants,Delft,november 2026,12,Labore Administratie,3,3,0,0
+accountants,Delft,november 2026,12,Moore DRV,3,1,1,1
+accountants,Delft,november 2026,12,Tunc Administratie,3,3,0,0
+accountants,Den Helder,november 2026,11,Adminnovation,7,2,3,2
+accountants,Den Helder,november 2026,11,Omnyacc Den Helder,7,2,2,3
+accountants,Den Helder,november 2026,11,HFD Administratiekantoor,4,0,1,3
+accountants,Den Helder,november 2026,11,KCM Administraties,4,2,2,0
+accountants,Den Helder,november 2026,11,NBC Eelman & Partners,4,2,1,1
+accountants,Den Helder,november 2026,11,Spijker Accountancy,4,2,1,1
+accountants,Drunen,november 2026,11,De Vaan Administratie,9,2,3,4
+accountants,Drunen,november 2026,11,Elshout Kühn Administratiekantoor B.V.,9,3,3,3
+accountants,Drunen,november 2026,11,Rodru Administratie's B.V.,8,3,2,3
+accountants,Drunen,november 2026,11,AMN Drunen,5,2,3,0
+accountants,Drunen,november 2026,11,FACT Finance B.V.,5,3,2,0
+accountants,Eindhoven,november 2026,12,Stadijn,5,2,1,2
+accountants,Eindhoven,november 2026,12,Yildiz & Partners,4,3,1,0
+accountants,Eindhoven,november 2026,12,Flynth Eindhoven,3,1,1,1
+accountants,Eindhoven,november 2026,12,Profinancials,3,1,1,1
+accountants,Eindhoven,november 2026,12,Administratiekantoor DEGENER,2,2,0,0
+accountants,Eindhoven,november 2026,12,Bent Accountants en Belastingadviseurs,2,0,2,0
+accountants,Eindhoven,november 2026,12,Joanknecht,2,0,2,0
+accountants,Ermelo,november 2026,11,AGO financieel en fiscaal advies,8,4,2,2
+accountants,Ermelo,november 2026,11,Inzicht fiscalisten & accountants,7,4,2,1
+accountants,Ermelo,november 2026,11,Kok Belastingadviseurs,5,2,1,2
+accountants,Ermelo,november 2026,11,Tomassen & Kievits (TK-Adviseurs),5,2,1,2
+accountants,Ermelo,november 2026,11,DK Accountants & Adviseurs,4,0,2,2
+accountants,Gouda,november 2026,11,Visser & Visser Gouda,5,2,1,2
+accountants,Gouda,november 2026,11,Hogebrug Accountants,4,2,2,0
+accountants,Gouda,november 2026,11,Lansigt accountants en adviseurs,4,2,1,1
+accountants,Gouda,november 2026,11,Accountants & Adviseurs WEA Gouda,3,2,0,1
+accountants,Gouda,november 2026,11,Administratiekantoor Kopa,3,2,0,1
+accountants,Groningen,november 2026,12,Mijn Accountant,6,2,2,2
+accountants,Groningen,november 2026,12,Moore MKW,4,0,2,2
+accountants,Groningen,november 2026,12,Noorda Accountants,4,1,3,0
+accountants,Groningen,november 2026,12,Kuipers Administratie & Advies,3,1,0,2
+accountants,Groningen,november 2026,12,Van der Meer Accountants & Adviseurs,3,0,2,1
+accountants,Heemstede,november 2026,11,Robert Administratiekantoor,7,3,2,2
+accountants,Heemstede,november 2026,11,Kabalt Administraties,6,3,2,1
+accountants,Heemstede,november 2026,11,SENS Accountants,6,3,2,1
+accountants,Heemstede,november 2026,11,Breder B.V.,5,2,2,1
+accountants,Heemstede,november 2026,11,DK Accountants & Adviseurs,4,0,2,2
+accountants,Heemstede,november 2026,11,Maarschalk|Ligthart,4,1,2,1
+accountants,Heemstede,november 2026,11,Van Noort Gassler & Co,4,2,1,1
+accountants,Heerenveen,november 2026,12,Jonkers & De Jonge,6,2,2,2
+accountants,Heerenveen,november 2026,12,Kubus Heerenveen,6,2,3,1
+accountants,Heerenveen,november 2026,12,Administratiekantoor S. de Jong,5,1,2,2
+accountants,Heerenveen,november 2026,12,Bentacera Heerenveen,5,2,2,1
+accountants,Heerenveen,november 2026,12,Duondes Administratie & Advies,5,3,1,1
+accountants,Heeze,november 2026,12,Van Loon Accountants,12,4,4,4
+accountants,Heeze,november 2026,12,Finergie Accountants & Adviseurs,10,4,3,3
+accountants,Heeze,november 2026,12,VDG Administratie,6,4,2,0
+accountants,Heeze,november 2026,12,Moneyfulness,5,2,2,1
+accountants,Heeze,november 2026,12,DK Accountants & Adviseurs,4,0,3,1
+accountants,Hillegom,november 2026,12,Administratiekantoor HGO,9,3,3,3
+accountants,Hillegom,november 2026,12,Administratiekantoor van Rooijen,9,3,4,2
+accountants,Hillegom,november 2026,12,A.U.B. Administraties,8,3,3,2
+accountants,Hillegom,november 2026,12,Fris Financieel,8,4,2,2
+accountants,Hillegom,november 2026,12,Assendelft & Misset,6,3,2,1
+accountants,Hilversum,november 2026,12,Meester & Kuiper,6,1,3,2
+accountants,Hilversum,november 2026,12,Administratiekantoor DOT B.V.,5,4,1,0
+accountants,Hilversum,november 2026,12,Habermehl,3,1,1,1
+accountants,Hilversum,november 2026,12,Administratiekantoor Van Buuren,2,1,0,1
+accountants,Hilversum,november 2026,12,Amigos Administratie,2,0,0,2
+accountants,Hilversum,november 2026,12,De Boekhoudking,2,2,0,0
+accountants,Hilversum,november 2026,12,GreenStars B.V.,2,2,0,0
+accountants,Kaatsheuvel,november 2026,12,Administratiekantoor Klijn B.V.,9,2,4,3
+accountants,Kaatsheuvel,november 2026,12,Deckers PWS Accountants & Adviseurs,9,3,4,2
+accountants,Kaatsheuvel,november 2026,12,Z! Accountants,6,2,2,2
+accountants,Kaatsheuvel,november 2026,12,ABT Accountants B.V.,5,1,2,2
+accountants,Kaatsheuvel,november 2026,12,Administratiekantoor Soeterboek en Partners,5,4,1,0
+accountants,Kaatsheuvel,november 2026,12,Van Wijnen Administratiekantoor,5,2,2,1
+accountants,Katwijk,november 2026,12,Guijt Accountant & Advies,8,3,3,2
+accountants,Katwijk,november 2026,12,De Stand van Zaken,5,3,2,0
+accountants,Katwijk,november 2026,12,Klaas Rozema Administraties,5,3,0,2
+accountants,Katwijk,november 2026,12,Novèns Accountants Katwijk,5,2,2,1
+accountants,Katwijk,november 2026,12,Lansigt accountants en adviseurs,3,1,2,0
+accountants,Leiden,november 2026,12,Lambda Administratie,5,2,2,1
+accountants,Leiden,november 2026,12,Van Arkel & Wiggers,4,1,2,1
+accountants,Leiden,november 2026,12,Visser & Visser,4,1,2,1
+accountants,Leiden,november 2026,12,AAFF,3,1,1,1
+accountants,Leiden,november 2026,12,Accountbird,3,2,1,0
+accountants,Leiden,november 2026,12,Administratiekantoor Hoogenraat,3,2,1,0
+accountants,Leiden,november 2026,12,Berveling Accountants & Adviseurs,3,2,1,0
+accountants,Leiderdorp,november 2026,12,Boekhoudnu,8,2,3,3
+accountants,Leiderdorp,november 2026,12,Administratiekantoor Slingerland & Slingerland,7,1,4,2
+accountants,Leiderdorp,november 2026,12,AdminXper,6,3,2,1
+accountants,Leiderdorp,november 2026,12,HBK Fiscalisten & Accountants,5,2,2,1
+accountants,Leiderdorp,november 2026,12,Staal MKB Advies,4,2,1,1
+accountants,Leusden,november 2026,12,PoortEijk,11,4,4,3
+accountants,Leusden,november 2026,12,DK Accountants & Adviseurs,6,1,2,3
+accountants,Leusden,november 2026,12,Eikelboom & De Bondt,6,2,2,2
+accountants,Leusden,november 2026,12,"Van Kempen en Co, accountants",4,2,2,0
+accountants,Leusden,november 2026,12,J.M. Vink Administratiekantoor,3,2,1,0
+accountants,Naaldwijk,november 2026,11,Moore DRV,7,2,2,3
+accountants,Naaldwijk,november 2026,11,Denkwerk Advies,6,1,1,4
+accountants,Naaldwijk,november 2026,11,Wea Accountants & Adviseurs Naaldwijk,5,2,2,1
+accountants,Naaldwijk,november 2026,11,AAFF,4,2,1,1
+accountants,Naaldwijk,november 2026,11,PLUS accountants en adviseurs B.V.,4,3,1,0
+accountants,Oss,november 2026,12,Konings Maters Accountants & Adviseurs,4,0,2,2
+accountants,Oss,november 2026,12,Moore DRV,4,0,2,2
+accountants,Oss,november 2026,12,Van der Stap Administratiekantoor,4,1,0,3
+accountants,Oss,november 2026,12,Yurt Finance & Advies,4,2,1,1
+accountants,Oss,november 2026,12,De Kleijne & Janssen,3,0,2,1
+accountants,Oss,november 2026,12,DSS Accountants,3,1,1,1
+accountants,Oss,november 2026,12,LvM Accountancy,3,1,2,0
+accountants,Schagen,november 2026,12,G&P Accountants en Adviseurs,8,4,2,2
+accountants,Schagen,november 2026,12,Finovion administratiekantoor Schagen,6,1,3,2
+accountants,Schagen,november 2026,12,Flynth Schagen,5,1,1,3
+accountants,Schagen,november 2026,12,Jongejan & Partners,4,2,2,0
+accountants,Schagen,november 2026,12,Administratiekantoor HFD,3,0,2,1
+accountants,Schagen,november 2026,12,ATN Boekhouding & Administratie,3,2,0,1
+accountants,Schagen,november 2026,12,Melanie Stins Administratie & Belastingadvies,3,1,0,2
+accountants,Uden,november 2026,12,LEF Accountants,7,4,3,0
+accountants,Uden,november 2026,12,Moore DRV,6,2,2,2
+accountants,Uden,november 2026,12,De Kleijne & Janssen,5,2,2,1
+accountants,Uden,november 2026,12,Groei Accountants,5,2,3,0
+accountants,Uden,november 2026,12,Vermetten,4,1,2,1
+accountants,Venlo,november 2026,12,Balduk Finance B.V.,8,4,3,1
+accountants,Venlo,november 2026,12,Administratiekantoor Venlo,5,2,1,2
+accountants,Venlo,november 2026,12,Flynth Venlo,5,2,2,1
+accountants,Venlo,november 2026,12,Fisc-Account,4,2,1,1
+accountants,Venlo,november 2026,12,Groenveld Adviseurs B.V.,4,2,2,0
+accountants,Venlo,november 2026,12,Newtone Venlo,4,2,2,0
+accountants,Volendam,november 2026,12,Karregat & Bond Administratie en Advies,9,2,4,3
+accountants,Volendam,november 2026,12,Administratiekantoor Hein Koning,8,3,3,2
+accountants,Volendam,november 2026,12,NBC Van Roemburg & Partners,6,2,2,2
+accountants,Volendam,november 2026,12,Administratiekantoor H.M. Schilder,5,3,1,1
+accountants,Volendam,november 2026,12,Contaxus Belastingadviseurs & Accountants,5,2,2,1
+accountants,Vught,november 2026,11,Jobsen Administratiekantoor,6,1,2,3
+accountants,Vught,november 2026,11,De Jong Accountants & Adviseurs B.V.,5,2,2,1
+accountants,Vught,november 2026,11,DK Accountants & Adviseurs,5,2,2,1
+accountants,Vught,november 2026,11,Finance4All,4,0,2,2
+accountants,Vught,november 2026,11,Schuurmans & Rombauts,4,2,1,1
+accountants,Waalwijk,november 2026,11,TvdW Administratie & Advieskantoor,9,4,1,4
+accountants,Waalwijk,november 2026,11,Van Laarhoven & Partners,7,3,2,2
+accountants,Waalwijk,november 2026,11,Moore DRV Waalwijk,4,0,2,2
+accountants,Waalwijk,november 2026,11,Boekhouder Waalwijk,3,2,0,1
+accountants,Waalwijk,november 2026,11,De Jonge Accountants,3,1,1,1
+accountants,Waalwijk,november 2026,11,Finc Accountants B.V.,3,2,0,1

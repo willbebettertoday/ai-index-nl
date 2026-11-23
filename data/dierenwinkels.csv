@@ -1,0 +1,113 @@
+trade,town,measurement,answers_in_town,name,answers_with_name,answers_chatgpt,answers_aio,answers_aimode
+dierenwinkels,Alkmaar,november 2026,11,Maxi Zoo Alkmaar,10,3,3,4
+dierenwinkels,Alkmaar,november 2026,11,Pets Place,10,4,2,4
+dierenwinkels,Alkmaar,november 2026,11,Marina's Dierenwinkel,6,4,2,0
+dierenwinkels,Alkmaar,november 2026,11,Pro-Dier,6,2,3,1
+dierenwinkels,Alkmaar,november 2026,11,Ranzijn tuin & dier Alkmaar,6,2,2,2
+dierenwinkels,Almelo,november 2026,11,Discus Haaksma,10,4,3,3
+dierenwinkels,Almelo,november 2026,11,Maxi Zoo Almelo,10,4,3,3
+dierenwinkels,Almelo,november 2026,11,Pets Place,8,3,2,3
+dierenwinkels,Almelo,november 2026,11,Dierenwinkel Zus & Zoo,5,1,2,2
+dierenwinkels,Almelo,november 2026,11,Welkoop Almelo,3,1,1,1
+dierenwinkels,Apeldoorn,november 2026,12,Dierenspeciaalzaak Flip Kluin,10,4,4,2
+dierenwinkels,Apeldoorn,november 2026,12,Dierenspecialist Disbergen,7,3,3,1
+dierenwinkels,Apeldoorn,november 2026,12,Pets Place,7,3,3,1
+dierenwinkels,Apeldoorn,november 2026,12,Karman Dierenspeciaalzaak,6,2,2,2
+dierenwinkels,Apeldoorn,november 2026,12,Maxi Zoo Apeldoorn,6,2,1,3
+dierenwinkels,Breda,november 2026,12,Pets & Co Lobbes,9,2,4,3
+dierenwinkels,Breda,november 2026,12,Pets Place Boerenbond,7,3,2,2
+dierenwinkels,Breda,november 2026,12,Beens Hondentrimsalon & Dierenspeciaalzaak,5,2,1,2
+dierenwinkels,Breda,november 2026,12,Chews&Nibbles,4,2,2,0
+dierenwinkels,Breda,november 2026,12,Dol op Dieren De Burcht,4,1,1,2
+dierenwinkels,Breda,november 2026,12,Maxi Zoo Breda,4,2,1,1
+dierenwinkels,Drachten,november 2026,12,Maxi Zoo Drachten,9,3,3,3
+dierenwinkels,Drachten,november 2026,12,Petsjop Drachten,9,3,4,2
+dierenwinkels,Drachten,november 2026,12,Talsma Pets en Co,7,2,3,2
+dierenwinkels,Drachten,november 2026,12,Bagus Petstore,6,2,2,2
+dierenwinkels,Drachten,november 2026,12,Welkoop Drachten,6,2,2,2
+dierenwinkels,Ede,november 2026,11,Het Dierenparadijs,9,4,3,2
+dierenwinkels,Ede,november 2026,11,Pets Place ZOO&ZO,9,4,3,2
+dierenwinkels,Ede,november 2026,11,Eerlijk Dierenvoer,5,3,2,0
+dierenwinkels,Ede,november 2026,11,Welkoop Ede,4,3,0,1
+dierenwinkels,Ede,november 2026,11,Maxi Zoo Ede,3,1,1,1
+dierenwinkels,Ede,november 2026,11,Stoer & Voer,3,1,1,1
+dierenwinkels,Emmeloord,november 2026,12,Maxi Zoo Emmeloord,12,4,4,4
+dierenwinkels,Emmeloord,november 2026,12,Pets Place,11,4,4,3
+dierenwinkels,Emmeloord,november 2026,12,Welkoop Emmeloord,6,2,3,1
+dierenwinkels,Emmen,november 2026,10,Maxi Zoo Emmen,9,4,2,3
+dierenwinkels,Emmen,november 2026,10,Siekman Diervoeders,8,2,2,4
+dierenwinkels,Emmen,november 2026,10,Pets Place,6,3,1,2
+dierenwinkels,Emmen,november 2026,10,Anita's Dierenspeciaalzaak,5,1,2,2
+dierenwinkels,Emmen,november 2026,10,Welkoop Emmen,4,3,1,0
+dierenwinkels,Enschede,november 2026,12,Zooveel Enschede,10,4,4,2
+dierenwinkels,Enschede,november 2026,12,TopPets,8,2,4,2
+dierenwinkels,Enschede,november 2026,12,Dogs Love It,5,2,3,0
+dierenwinkels,Enschede,november 2026,12,Pets Place Boerenbond,5,2,2,1
+dierenwinkels,Enschede,november 2026,12,Pronk's Dogshop,5,2,2,1
+dierenwinkels,Harderwijk,november 2026,12,Pets Place,12,4,4,4
+dierenwinkels,Harderwijk,november 2026,12,Welkoop Harderwijk,9,3,3,3
+dierenwinkels,Harderwijk,november 2026,12,AVO Dier & Ruiter,4,2,1,1
+dierenwinkels,Heemskerk,november 2026,12,Pets Place,11,4,4,3
+dierenwinkels,Heemskerk,november 2026,12,Welkoop Heemskerk,10,4,4,2
+dierenwinkels,Heemskerk,november 2026,12,Van Someren Dierenwereld,8,2,4,2
+dierenwinkels,Heemskerk,november 2026,12,De Hondenadviseur,3,1,1,1
+dierenwinkels,Heerenveen,november 2026,11,Maxi Zoo Heerenveen,11,4,3,4
+dierenwinkels,Heerenveen,november 2026,11,Pets Place,11,4,3,4
+dierenwinkels,Heerenveen,november 2026,11,Welkoop Heerenveen,7,4,2,1
+dierenwinkels,Leeuwarden,november 2026,11,Pets Place,10,4,2,4
+dierenwinkels,Leeuwarden,november 2026,11,Pets & Co,9,4,1,4
+dierenwinkels,Leeuwarden,november 2026,11,Dierenspeciaalzaak Zaailand,6,1,2,3
+dierenwinkels,Leeuwarden,november 2026,11,Welkoop Leeuwarden,5,3,1,1
+dierenwinkels,Leeuwarden,november 2026,11,DoggyDoe,4,1,1,2
+dierenwinkels,Leeuwarden,november 2026,11,Repticura Reptileshop,4,1,2,1
+dierenwinkels,Lelystad,november 2026,11,Maxi Zoo Lelystad,9,3,3,3
+dierenwinkels,Lelystad,november 2026,11,Huisdiervoordeelshop Lelystad,7,1,3,3
+dierenwinkels,Lelystad,november 2026,11,PET&ZOO,7,3,3,1
+dierenwinkels,Lelystad,november 2026,11,Welkoop Lelystad,7,4,2,1
+dierenwinkels,Lelystad,november 2026,11,Pets Place,6,2,1,3
+dierenwinkels,Naaldwijk,november 2026,11,Pets Place,11,4,3,4
+dierenwinkels,Naaldwijk,november 2026,11,Welkoop Naaldwijk,9,4,2,3
+dierenwinkels,Naaldwijk,november 2026,11,Discus Paul Groeneveld,2,1,1,0
+dierenwinkels,Purmerend,november 2026,11,Discus Bormann Purmerend,8,2,3,3
+dierenwinkels,Purmerend,november 2026,11,Maxi Zoo Purmerend,8,3,3,2
+dierenwinkels,Purmerend,november 2026,11,Rensenbrink Dierenspeciaalzaak,7,2,3,2
+dierenwinkels,Purmerend,november 2026,11,Pets Place,6,4,0,2
+dierenwinkels,Purmerend,november 2026,11,Dierenwinkel van Dijck,4,2,2,0
+dierenwinkels,Purmerend,november 2026,11,Welkoop Purmerend,4,2,1,1
+dierenwinkels,Roermond,november 2026,12,Pets Place,10,4,4,2
+dierenwinkels,Roermond,november 2026,12,Budgetdier,8,3,2,3
+dierenwinkels,Roermond,november 2026,12,Dierenzaak de Munsterboog,8,2,3,3
+dierenwinkels,Roermond,november 2026,12,Dierenspeciaalzaak HeVi,6,4,2,0
+dierenwinkels,Roermond,november 2026,12,Welkoop Roermond,5,2,1,2
+dierenwinkels,Sneek,november 2026,11,Pets Place,11,4,3,4
+dierenwinkels,Sneek,november 2026,11,Ranzijn tuin & dier Sneek,10,4,3,3
+dierenwinkels,Sneek,november 2026,11,Welkoop Sneek,9,4,2,3
+dierenwinkels,Sneek,november 2026,11,Versvoer Hond & Kat Sneek,8,2,3,3
+dierenwinkels,Steenwijk,november 2026,10,Pets Place,9,4,1,4
+dierenwinkels,Steenwijk,november 2026,10,Welkoop Steenwijk,8,4,2,2
+dierenwinkels,Steenwijk,november 2026,10,Dier all in Steenwijk,6,2,2,2
+dierenwinkels,Steenwijk,november 2026,10,Maxi Zoo Steenwijk,5,2,1,2
+dierenwinkels,Tilburg,november 2026,11,Animal Center Tilburg,9,3,3,3
+dierenwinkels,Tilburg,november 2026,11,Discus Animo Tilburg,7,3,3,1
+dierenwinkels,Tilburg,november 2026,11,Pets Place Boerenbond,7,4,1,2
+dierenwinkels,Tilburg,november 2026,11,Pets&Co Baloeke Dierenspeciaalzaak,4,1,0,3
+dierenwinkels,Tilburg,november 2026,11,GroenRijk Tilburg,3,1,2,0
+dierenwinkels,Tilburg,november 2026,11,Maxi Zoo Tilburg,3,0,2,1
+dierenwinkels,Wageningen,november 2026,11,Pets Place,11,4,3,4
+dierenwinkels,Wageningen,november 2026,11,Tuincentrum de Oude Tol,8,4,1,3
+dierenwinkels,Wageningen,november 2026,11,Welkoop Wageningen,6,4,2,0
+dierenwinkels,Wageningen,november 2026,11,Heel het Dier,2,1,1,0
+dierenwinkels,Weert,november 2026,12,Dierenparadijs Weert,12,4,4,4
+dierenwinkels,Weert,november 2026,12,Dierenspeciaalzaak De4Voeter,12,4,4,4
+dierenwinkels,Weert,november 2026,12,Paul Meevis - Jouw Dierenspecialist,9,3,4,2
+dierenwinkels,Weert,november 2026,12,Pets Place Boerenbond,6,3,3,0
+dierenwinkels,Zeist,november 2026,11,Dierenspeciaalzaak van Zonneveld,8,3,3,2
+dierenwinkels,Zeist,november 2026,11,Discus Maassen,8,2,3,3
+dierenwinkels,Zeist,november 2026,11,Pets Place,8,3,3,2
+dierenwinkels,Zeist,november 2026,11,Buddy's,7,3,2,2
+dierenwinkels,Zeist,november 2026,11,Welkoop Zeist,6,2,3,1
+dierenwinkels,Zutphen,november 2026,11,Pets Place Boerenbond,9,3,2,4
+dierenwinkels,Zutphen,november 2026,11,Natuurlijke dierenwinkel Benjie,6,3,1,2
+dierenwinkels,Zutphen,november 2026,11,Welkoop Zutphen,6,4,2,0
+dierenwinkels,Zutphen,november 2026,11,Het Brokkenpaleis,3,1,1,1
+dierenwinkels,Zutphen,november 2026,11,Van der Bijl Diervoeders,2,0,2,0

@@ -1,0 +1,1013 @@
+{
+ "name": "sysenko-ai-index-nl-2026-11",
+ "title": "Sysenko AI-index NL: which local businesses ChatGPT and Google AI name, November 2026",
+ "description": "Counts of business names in ChatGPT, Google AI Overview and Google AI Mode answers to four fixed Dutch questions per town, for 18 trades. Names counted per answer and read by hand. One measurement, Nov 2026. Nederlands: aantal AI-antwoorden waarin een bedrijfsnaam voorkomt, per branche en plaats.",
+ "version": "2026.11.0",
+ "created": "2026-11-23",
+ "homepage": "https://sysenko.com/ai-index/",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "D.V. Sysenko (Sysenko)",
+   "path": "https://sysenko.com/",
+   "role": "author"
+  }
+ ],
+ "keywords": [
+  "ChatGPT",
+  "Google AI Overview",
+  "Google AI Mode",
+  "AI search",
+  "GEO",
+  "AEO",
+  "Netherlands",
+  "local businesses",
+  "Dutch"
+ ],
+ "sources": [
+  {
+   "title": "Sysenko AI-index (Dutch town pages)",
+   "path": "https://sysenko.com/nl/ai-index/plaats/"
+  }
+ ],
+ "resources": [
+  {
+   "name": "accountants",
+   "path": "data/accountants.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "accountants: names counted in AI answers per town, Nov 2026 (185 rows, 32 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "audiciens",
+   "path": "data/audiciens.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "audiciens: names counted in AI answers per town, Nov 2026 (120 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "autogarages",
+   "path": "data/autogarages.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "autogarages: names counted in AI answers per town, Nov 2026 (388 rows, 68 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "bakkers",
+   "path": "data/bakkers.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "bakkers: names counted in AI answers per town, Nov 2026 (127 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "dierenwinkels",
+   "path": "data/dierenwinkels.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "dierenwinkels: names counted in AI answers per town, Nov 2026 (112 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "fietsenwinkels",
+   "path": "data/fietsenwinkels.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "fietsenwinkels: names counted in AI answers per town, Nov 2026 (133 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "fysiotherapeuten",
+   "path": "data/fysiotherapeuten.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "fysiotherapeuten: names counted in AI answers per town, Nov 2026 (182 rows, 34 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "hypotheekadviseurs",
+   "path": "data/hypotheekadviseurs.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "hypotheekadviseurs: names counted in AI answers per town, Nov 2026 (140 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "installateurs",
+   "path": "data/installateurs.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "installateurs: names counted in AI answers per town, Nov 2026 (248 rows, 44 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "kappers",
+   "path": "data/kappers.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "kappers: names counted in AI answers per town, Nov 2026 (146 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "keukenzaken",
+   "path": "data/keukenzaken.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "keukenzaken: names counted in AI answers per town, Nov 2026 (131 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "kinderopvang",
+   "path": "data/kinderopvang.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "kinderopvang: names counted in AI answers per town, Nov 2026 (133 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "makelaars",
+   "path": "data/makelaars.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "makelaars: names counted in AI answers per town, Nov 2026 (374 rows, 69 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "opticiens",
+   "path": "data/opticiens.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "opticiens: names counted in AI answers per town, Nov 2026 (132 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "slagers",
+   "path": "data/slagers.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "slagers: names counted in AI answers per town, Nov 2026 (128 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "sportscholen",
+   "path": "data/sportscholen.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "sportscholen: names counted in AI answers per town, Nov 2026 (136 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "tandartsen",
+   "path": "data/tandartsen.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "tandartsen: names counted in AI answers per town, Nov 2026 (244 rows, 46 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  },
+  {
+   "name": "vloerenwinkels",
+   "path": "data/vloerenwinkels.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "vloerenwinkels: names counted in AI answers per town, Nov 2026 (126 rows, 24 towns)",
+   "schema": {
+    "fields": [
+     {
+      "name": "trade",
+      "type": "string"
+     },
+     {
+      "name": "town",
+      "type": "string"
+     },
+     {
+      "name": "measurement",
+      "type": "string",
+      "description": "edition label, e.g. november 2026"
+     },
+     {
+      "name": "answers_in_town",
+      "type": "integer",
+      "description": "AI answers read for this town"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "business name as written in the answer"
+     },
+     {
+      "name": "answers_with_name",
+      "type": "integer",
+      "description": "answers in which the name appears"
+     },
+     {
+      "name": "answers_chatgpt",
+      "type": "integer"
+     },
+     {
+      "name": "answers_aio",
+      "type": "integer",
+      "description": "Google AI Overview"
+     },
+     {
+      "name": "answers_aimode",
+      "type": "integer",
+      "description": "Google AI Mode"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+trade,town,measurement,answers_in_town,name,answers_with_name,answers_chatgpt,answers_aio,answers_aimode
+slagers,Alkmaar,november 2026,12,Keurslager Groot Culinair,11,3,4,4
+slagers,Alkmaar,november 2026,12,Slagerij Eeken,9,4,3,2
+slagers,Alkmaar,november 2026,12,Slagerij Jeroen de Vries,9,2,3,4
+slagers,Alkmaar,november 2026,12,Keurslagerij Louter,8,3,4,1
+slagers,Alkmaar,november 2026,12,De Groene Slager Alkmaar,5,3,1,1
+slagers,Alkmaar,november 2026,12,Uw Slager Sandra de Groot,5,1,2,2
+slagers,Almere,november 2026,12,Slagerij Verhoef,10,4,4,2
+slagers,Almere,november 2026,12,Keurslagerij Hans Pouw,9,1,4,4
+slagers,Almere,november 2026,12,Slagerij Ouled Hassan,8,3,2,3
+slagers,Almere,november 2026,12,Slagerij Talha,8,3,4,1
+slagers,Almere,november 2026,12,Slagerij Ahmed Papa,4,3,1,0
+slagers,Alphen aan den Rijn,november 2026,11,Keurslager Loek van Vliet,11,4,3,4
+slagers,Alphen aan den Rijn,november 2026,11,Slagerij Vermeulen,9,2,3,4
+slagers,Alphen aan den Rijn,november 2026,11,Kwaliteitsslagerij De Valk B.V.,7,4,2,1
+slagers,Alphen aan den Rijn,november 2026,11,Slagerij Antonisse,6,3,3,0
+slagers,Amstelveen,november 2026,12,Slagerij Sam Ridder,12,4,4,4
+slagers,Amstelveen,november 2026,12,Kwaliteitsslagerij Astrid Drenthe,9,2,4,3
+slagers,Amstelveen,november 2026,12,The Foodstory (BBQ Butcher),9,4,2,3
+slagers,Amstelveen,november 2026,12,Slagerij Bobeldijk,8,2,3,3
+slagers,Amstelveen,november 2026,12,Zohra Slagerij en supermarkt,3,1,2,0
+slagers,Apeldoorn,november 2026,11,Kwaliteitsslagerij F & A De Graaf,11,4,3,4
+slagers,Apeldoorn,november 2026,11,Lautenschutz Keurslager,8,3,2,3
+slagers,Apeldoorn,november 2026,11,Slagerij De Adelaar B.V.,8,2,2,4
+slagers,Apeldoorn,november 2026,11,Slagerij Meesterslager Spaans,8,3,1,4
+slagers,Apeldoorn,november 2026,11,Slagerij & Poelier Kamphuis,5,3,1,1
+slagers,Apeldoorn,november 2026,11,Slagerij De Groene Weg,5,3,2,0
+slagers,Arnhem,november 2026,12,Slagerij Evers,11,4,3,4
+slagers,Arnhem,november 2026,12,Slagerij Putman,11,4,4,3
+slagers,Arnhem,november 2026,12,De Groene Weg,8,3,3,2
+slagers,Arnhem,november 2026,12,Beimer Winkel / Meat,5,2,3,0
+slagers,Arnhem,november 2026,12,Keurslager De Haas,4,1,1,2
+slagers,Arnhem,november 2026,12,Vleeshuis,4,0,1,3
+slagers,Assen,november 2026,9,Keurslagerij Bating,9,4,1,4
+slagers,Assen,november 2026,9,Slagerij Kruidhof,9,4,1,4
+slagers,Assen,november 2026,9,"Roelof Speelman, Keurslager",8,4,1,3
+slagers,Assen,november 2026,9,Aryana Slagerij,2,0,0,2
+slagers,Assen,november 2026,9,Het Vleesgilde,2,0,1,1
+slagers,Breda,november 2026,12,Slagerij Graumans,12,4,4,4
+slagers,Breda,november 2026,12,Slagerij Pieter Kling,11,4,3,4
+slagers,Breda,november 2026,12,Maison Moes Slagerij-Traiteur,7,1,3,3
+slagers,Breda,november 2026,12,Slagerij Merhaba,6,1,2,3
+slagers,Breda,november 2026,12,Slagerij De Groene Weg,4,2,2,0
+slagers,Delft,november 2026,11,Slagerij Leo van Vliet,10,4,3,3
+slagers,Delft,november 2026,11,Keurslager Van Geest (Den Hoorn),8,3,3,2
+slagers,Delft,november 2026,11,Slagerij Verbree,7,0,3,4
+slagers,Delft,november 2026,11,Slagerij Lander,3,1,0,2
+slagers,Delft,november 2026,11,Erciyes,2,1,0,1
+slagers,Delft,november 2026,11,Smokey Goodness,2,2,0,0
+slagers,Deventer,november 2026,11,Slagerij Peter Nijenhuis,11,4,3,4
+slagers,Deventer,november 2026,11,Keurslagerij Dalhuisen,7,3,3,1
+slagers,Deventer,november 2026,11,Slagerij Melikoglu,7,3,2,2
+slagers,Deventer,november 2026,11,Slagerij Onur,6,2,2,2
+slagers,Deventer,november 2026,11,Bizim Slagerij,3,1,2,0
+slagers,Deventer,november 2026,11,Keurslager Harmsen,3,1,0,2
+slagers,Ede,november 2026,11,Slagerij Pater,11,4,3,4
+slagers,Ede,november 2026,11,Het Schaffelaartje,10,4,3,3
+slagers,Ede,november 2026,11,Visser vlees,7,3,2,2
+slagers,Ede,november 2026,11,Keurslagerij Jongenotter B.V.,6,2,1,3
+slagers,Eindhoven,november 2026,11,Slagerij Beerens,10,4,3,3
+slagers,Eindhoven,november 2026,11,Keurslager Verberne,8,3,3,2
+slagers,Eindhoven,november 2026,11,Keurslager Danny Megens,7,2,3,2
+slagers,Eindhoven,november 2026,11,Slagerij Lelieveld,7,3,3,1
+slagers,Eindhoven,november 2026,11,Meat Upp,5,3,2,0
+slagers,Enschede,november 2026,12,Busscher Slagerij,11,4,4,3
+slagers,Enschede,november 2026,12,Sanders Vers,8,3,3,2
+slagers,Enschede,november 2026,12,Slager Entrecote,8,2,3,3
+slagers,Enschede,november 2026,12,Beimer Winkel / Meat,7,2,3,2
+slagers,Enschede,november 2026,12,Kardem Slagerij,5,0,2,3
+slagers,Enschede,november 2026,12,Meat Boutique,5,3,2,0
+slagers,Gouda,november 2026,12,Slagerij C. van Sprang,12,4,4,4
+slagers,Gouda,november 2026,12,Keurslagerij Van der Geest,11,3,4,4
+slagers,Gouda,november 2026,12,T. Lagendijk,11,4,4,3
+slagers,Gouda,november 2026,12,Kip Corner Gouda,4,1,2,1
+slagers,Gouda,november 2026,12,Slagerij Eric Konermann,2,0,0,2
+slagers,Groningen,november 2026,12,De Groene Weg Groningen,9,3,3,3
+slagers,Groningen,november 2026,12,Ambachtelijke Slagerij Het Herenhuis,7,4,3,0
+slagers,Groningen,november 2026,12,De Stadsslager,7,4,3,0
+slagers,Groningen,november 2026,12,Just Meat Groningen,7,3,3,1
+slagers,Groningen,november 2026,12,De Wilde Slager,6,0,2,4
+slagers,Groningen,november 2026,12,Vleeshouwerij Rademarkt,6,3,1,2
+slagers,Hengelo,november 2026,12,Keurslagerij Koekenberg,12,4,4,4
+slagers,Hengelo,november 2026,12,Beimer Winkel / Meat,8,2,2,4
+slagers,Hengelo,november 2026,12,Erve Groot Avest,8,2,3,3
+slagers,Hengelo,november 2026,12,Güven Slagerij,8,2,4,2
+slagers,Hengelo,november 2026,12,Slagerij Gerard en Marjolein,8,3,2,3
+slagers,Hilversum,november 2026,11,Slagerij de Kroes,7,3,3,1
+slagers,Hilversum,november 2026,11,Slagerij Janmaat,7,2,1,4
+slagers,Hilversum,november 2026,11,Slagerij van Zadelhof,7,1,2,4
+slagers,Hilversum,november 2026,11,Slagerij Chateau Briand,6,4,2,0
+slagers,Hilversum,november 2026,11,Slagerij Kroon,6,2,3,1
+slagers,Hilversum,november 2026,11,Slagerij Seinhorst,6,1,1,4
+slagers,Hoorn,november 2026,12,Scharrelslagerij Zaak vol Smaak,11,3,4,4
+slagers,Hoorn,november 2026,12,Slagerij Langendijk,10,4,4,2
+slagers,Hoorn,november 2026,12,Uw Slager Kersenboogerd,8,3,4,1
+slagers,Hoorn,november 2026,12,Keurslagerij Marc de Meijer,5,0,2,3
+slagers,Hoorn,november 2026,12,De Worsterij,3,1,1,1
+slagers,Kampen,november 2026,9,De Slagerij van Campen,9,4,1,4
+slagers,Kampen,november 2026,9,Slagerij Norg,8,4,1,3
+slagers,Kampen,november 2026,9,Slagerij Alex van Ingen,3,3,0,0
+slagers,Kampen,november 2026,9,Slagerij Atakan,3,1,0,2
+slagers,Nijmegen,november 2026,11,Slagerij Keller,10,4,3,3
+slagers,Nijmegen,november 2026,11,Slagerij 'De Groene Weg',9,4,2,3
+slagers,Nijmegen,november 2026,11,Slagerij Cor van Dijk,7,4,2,1
+slagers,Nijmegen,november 2026,11,Ammon City Butcher,5,2,1,2
+slagers,Nijmegen,november 2026,11,Slager Traiteur Yvo Mulder,5,2,2,1
+slagers,Purmerend,november 2026,12,Hesseling Vlees,10,4,4,2
+slagers,Purmerend,november 2026,12,Culinaire Slagerij Walter Brouwer,9,4,4,1
+slagers,Purmerend,november 2026,12,Natuurslagerij Ger van der Gragt,8,4,3,1
+slagers,Purmerend,november 2026,12,Slagerij Jonkman,7,3,1,3
+slagers,Purmerend,november 2026,12,Kip Van West,5,0,2,3
+slagers,Purmerend,november 2026,12,Versmarkt Kok,5,2,1,2
+slagers,Purmerend,november 2026,12,Vlees & Zo,5,0,3,2
+slagers,Zeist,november 2026,11,Slagerij Wim Kok,11,4,3,4
+slagers,Zeist,november 2026,11,Slagerij Marlet,10,3,3,4
+slagers,Zeist,november 2026,11,Slagerij Van Dolder,6,3,1,2
+slagers,Zeist,november 2026,11,Slagerij Spoelder,4,3,1,0
+slagers,Zeist,november 2026,11,La Charcuterie chez John,3,0,1,2
+slagers,Zeist,november 2026,11,Slagerij Noordam,3,3,0,0
+slagers,Zoetermeer,november 2026,10,Keurslagerij Reas,9,4,2,3
+slagers,Zoetermeer,november 2026,10,Slagerij Jerry Buijs,9,3,2,4
+slagers,Zoetermeer,november 2026,10,Slagerij Meat & Daily's Zoetermeer,7,4,2,1
+slagers,Zoetermeer,november 2026,10,Slagerij Gelderblom Woutersen,5,2,1,2
+slagers,Zoetermeer,november 2026,10,Slagerij Watan,4,2,0,2
+slagers,Zwolle,november 2026,12,Slagerij van Guilik,12,4,4,4
+slagers,Zwolle,november 2026,12,Jager & Boer,7,4,2,1
+slagers,Zwolle,november 2026,12,Keurslagerij Van de Weg,7,2,3,2
+slagers,Zwolle,november 2026,12,Uw Slager Koerkamp,5,1,3,1
+slagers,Zwolle,november 2026,12,Slagerij W. van Voorst,4,3,0,1

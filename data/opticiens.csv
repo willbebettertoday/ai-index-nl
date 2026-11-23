@@ -1,0 +1,133 @@
+trade,town,measurement,answers_in_town,name,answers_with_name,answers_chatgpt,answers_aio,answers_aimode
+opticiens,Alkmaar,november 2026,11,Hans Anders,8,2,3,3
+opticiens,Alkmaar,november 2026,11,Eye Wish,7,4,2,1
+opticiens,Alkmaar,november 2026,11,Specsavers,7,2,2,3
+opticiens,Alkmaar,november 2026,11,De Oogkamer,6,2,2,2
+opticiens,Alkmaar,november 2026,11,VEER,6,2,2,2
+opticiens,Almelo,november 2026,12,ZONN opticiens,11,4,3,4
+opticiens,Almelo,november 2026,12,Pearle Opticiens Almelo,10,3,4,3
+opticiens,Almelo,november 2026,12,Hemmer Optiek & Optometrie,9,2,4,3
+opticiens,Almelo,november 2026,12,Specsavers Almelo,6,2,1,3
+opticiens,Almelo,november 2026,12,Berkhof Optiek,5,0,3,2
+opticiens,Almelo,november 2026,12,Van Varik Optiek,5,2,2,1
+opticiens,Almere,november 2026,12,GrandOptical Almere,10,3,4,3
+opticiens,Almere,november 2026,12,Specsavers Almere Centrum,10,3,3,4
+opticiens,Almere,november 2026,12,Pearle Opticiens,8,2,3,3
+opticiens,Almere,november 2026,12,Bon Art Optiek,7,3,3,1
+opticiens,Almere,november 2026,12,Ellerman Optiek,7,3,2,2
+opticiens,Apeldoorn,november 2026,12,Oogwereld Klein (Klein Optiek),9,3,3,3
+opticiens,Apeldoorn,november 2026,12,Raad Optiek,9,4,3,2
+opticiens,Apeldoorn,november 2026,12,Pearle Opticiens,7,0,4,3
+opticiens,Apeldoorn,november 2026,12,Specsavers,6,0,4,2
+opticiens,Apeldoorn,november 2026,12,Villa Optica,6,2,3,1
+opticiens,Arnhem,november 2026,12,Specsavers,10,2,4,4
+opticiens,Arnhem,november 2026,12,GrandOptical,8,2,3,3
+opticiens,Arnhem,november 2026,12,Holsboer & Reinsdorf,7,3,3,1
+opticiens,Arnhem,november 2026,12,Pearle Opticiens,7,0,4,3
+opticiens,Arnhem,november 2026,12,Schuytgraaf Optiek,6,2,3,1
+opticiens,Assen,november 2026,11,V.S Optiek,8,3,2,3
+opticiens,Assen,november 2026,11,De Wolff Optiek,7,4,2,1
+opticiens,Assen,november 2026,11,Hans Anders Assen,7,1,2,4
+opticiens,Assen,november 2026,11,Pearle Opticiens Assen,7,1,3,3
+opticiens,Assen,november 2026,11,Roma Opticiens,7,3,3,1
+opticiens,Breda,november 2026,11,Bielars Optiek & Optometrie,8,3,3,2
+opticiens,Breda,november 2026,11,De Burcht Optiek,6,2,2,2
+opticiens,Breda,november 2026,11,Oogzorgcentrum Breda,6,2,2,2
+opticiens,Breda,november 2026,11,Pearle Opticiens,6,0,2,4
+opticiens,Breda,november 2026,11,EyeCare Peter Huijben,5,0,1,4
+opticiens,Deventer,november 2026,12,Deventer Brillencentrale,9,4,2,3
+opticiens,Deventer,november 2026,12,Zien & Gezien Worden,8,4,3,1
+opticiens,Deventer,november 2026,12,eyes + more,7,3,3,1
+opticiens,Deventer,november 2026,12,Intervisie Optiek,6,3,1,2
+opticiens,Deventer,november 2026,12,Pearle Opticiens,6,0,2,4
+opticiens,Deventer,november 2026,12,Schaap Opticiens,6,1,2,3
+opticiens,Doetinchem,november 2026,12,Oogwereld Evers,10,3,3,4
+opticiens,Doetinchem,november 2026,12,Hartemink Optiek,9,3,3,3
+opticiens,Doetinchem,november 2026,12,Lindenhovius Opticiens,8,2,3,3
+opticiens,Doetinchem,november 2026,12,Nieuwstad Optiek,8,4,3,1
+opticiens,Doetinchem,november 2026,12,GrandOptical Doetinchem,6,2,3,1
+opticiens,Eindhoven,november 2026,11,Eye Optix,5,3,0,2
+opticiens,Eindhoven,november 2026,11,Pearle Opticiens,5,0,2,3
+opticiens,Eindhoven,november 2026,11,Tower Optics,5,3,0,2
+opticiens,Eindhoven,november 2026,11,Ace & Tate,4,1,2,1
+opticiens,Eindhoven,november 2026,11,Hans Anders,4,0,1,3
+opticiens,Eindhoven,november 2026,11,Mr Brown,4,2,1,1
+opticiens,Eindhoven,november 2026,11,Optiek Verhoeven,4,0,2,2
+opticiens,Emmen,november 2026,12,Greving & Greving Opticiens,11,4,4,3
+opticiens,Emmen,november 2026,12,Oogwereld Bij Maarten,11,4,4,3
+opticiens,Emmen,november 2026,12,Specsavers Emmen,10,3,3,4
+opticiens,Emmen,november 2026,12,Hans Anders,7,1,2,4
+opticiens,Emmen,november 2026,12,eyes + more,6,2,3,1
+opticiens,Enschede,november 2026,10,Eye Wish,7,3,2,2
+opticiens,Enschede,november 2026,10,Hofland Optics,7,4,1,2
+opticiens,Enschede,november 2026,10,Danel Optiek,6,1,1,4
+opticiens,Enschede,november 2026,10,Pearle Opticiens,4,0,1,3
+opticiens,Enschede,november 2026,10,Specsavers Enschede Centrum,4,1,1,2
+opticiens,Gouda,november 2026,12,Kempkes Optics,10,4,4,2
+opticiens,Gouda,november 2026,12,Saar optiek Gouda,10,4,3,3
+opticiens,Gouda,november 2026,12,Specsavers Gouda,8,1,3,4
+opticiens,Gouda,november 2026,12,Hans Anders,7,1,3,3
+opticiens,Gouda,november 2026,12,Pearle Opticiens,7,0,4,3
+opticiens,Groningen,november 2026,12,Woldringh Optiek,10,3,4,3
+opticiens,Groningen,november 2026,12,Specsavers,7,0,3,4
+opticiens,Groningen,november 2026,12,Vrind Optiek,6,2,2,2
+opticiens,Groningen,november 2026,12,Optiek van het Noorden,5,2,3,0
+opticiens,Groningen,november 2026,12,Pearle Opticiens,5,0,3,2
+opticiens,Heerenveen,november 2026,12,Specsavers Heerenveen,11,4,4,3
+opticiens,Heerenveen,november 2026,12,BEENEN brillen & contactlenzen,10,3,3,4
+opticiens,Heerenveen,november 2026,12,Frans van Bockhooven Optiek,10,4,4,2
+opticiens,Heerenveen,november 2026,12,Hans Anders,9,2,4,3
+opticiens,Heerenveen,november 2026,12,Pearle Opticiens,9,2,3,4
+opticiens,Hilversum,november 2026,11,Van Gestel Optiek,7,4,1,2
+opticiens,Hilversum,november 2026,11,La Orca Optica,6,3,1,2
+opticiens,Hilversum,november 2026,11,Specsavers Hilversum,6,1,2,3
+opticiens,Hilversum,november 2026,11,De Oogkas,5,1,1,3
+opticiens,Hilversum,november 2026,11,Hans Anders,5,1,1,3
+opticiens,Hilversum,november 2026,11,Lafeber Horen & Zien,5,2,2,1
+opticiens,Kampen,november 2026,12,Hans Leurink Optiek,11,4,4,3
+opticiens,Kampen,november 2026,12,Optiek Kale,11,4,4,3
+opticiens,Kampen,november 2026,12,Specsavers Kampen,10,4,4,2
+opticiens,Kampen,november 2026,12,Pearle Opticiens Kampen,8,1,4,3
+opticiens,Kampen,november 2026,12,Hans Anders Opticien Kampen,6,1,4,1
+opticiens,Leeuwarden,november 2026,11,Oogwereld Miedema & Vellinga,8,2,2,4
+opticiens,Leeuwarden,november 2026,11,Oogmode Cocon,7,3,3,1
+opticiens,Leeuwarden,november 2026,11,Specsavers Leeuwarden,7,2,2,3
+opticiens,Leeuwarden,november 2026,11,Copini Opticiens,6,4,2,0
+opticiens,Leeuwarden,november 2026,11,Greving & Greving opticiens,6,2,2,2
+opticiens,Leeuwarden,november 2026,11,Pearle Opticiens,6,0,3,3
+opticiens,Leiden,november 2026,11,Saton Optiek,10,3,3,4
+opticiens,Leiden,november 2026,11,Specsavers Leiden,8,2,2,4
+opticiens,Leiden,november 2026,11,Van den Hurk Optiek,7,3,2,2
+opticiens,Leiden,november 2026,11,Look Optiek,6,2,3,1
+opticiens,Leiden,november 2026,11,Pearle Opticiens,6,2,2,2
+opticiens,Maastricht,november 2026,12,Hans Anders,6,1,2,3
+opticiens,Maastricht,november 2026,12,Mestrini,6,3,2,1
+opticiens,Maastricht,november 2026,12,Pearle Opticiens,6,0,2,4
+opticiens,Maastricht,november 2026,12,Siefers Opticum,6,2,2,2
+opticiens,Maastricht,november 2026,12,eyes + more,5,2,2,1
+opticiens,Maastricht,november 2026,12,GrandOptical,5,2,2,1
+opticiens,Maastricht,november 2026,12,Oogwereld Annadal,5,0,2,3
+opticiens,Nijmegen,november 2026,11,Kock Bril Shop,5,2,2,1
+opticiens,Nijmegen,november 2026,11,Maalsen Optiek,5,3,1,1
+opticiens,Nijmegen,november 2026,11,Van den Bergh Opticiens,5,1,1,3
+opticiens,Nijmegen,november 2026,11,By Bas Optiek,4,2,2,0
+opticiens,Nijmegen,november 2026,11,GrandOptical,4,1,1,2
+opticiens,Nijmegen,november 2026,11,Hans Anders,4,0,1,3
+opticiens,Nijmegen,november 2026,11,Pearle Opticiens,4,0,1,3
+opticiens,Tilburg,november 2026,12,Van Gijzen Opticiens,12,4,4,4
+opticiens,Tilburg,november 2026,12,Hans Anders Opticien Tilburg,7,2,1,4
+opticiens,Tilburg,november 2026,12,Oogwereld De Haas,7,3,2,2
+opticiens,Tilburg,november 2026,12,Pearle Opticiens Tilburg - Centrum,7,1,3,3
+opticiens,Tilburg,november 2026,12,Optiek Tilburg,6,2,3,1
+opticiens,Tilburg,november 2026,12,Specsavers Tilburg Centrum,6,0,2,4
+opticiens,Venlo,november 2026,12,Pearle Opticiens,9,1,4,4
+opticiens,Venlo,november 2026,12,Specsavers Venlo,9,3,2,4
+opticiens,Venlo,november 2026,12,Eye Wish Opticiens,8,2,3,3
+opticiens,Venlo,november 2026,12,Stufkens Optiek,8,4,1,3
+opticiens,Venlo,november 2026,12,Xie Eyewear,8,3,3,2
+opticiens,Zwolle,november 2026,12,Roosdorp Opticiens,9,4,3,2
+opticiens,Zwolle,november 2026,12,Specsavers Zwolle Centrum,8,2,2,4
+opticiens,Zwolle,november 2026,12,De BrilMeester,7,3,3,1
+opticiens,Zwolle,november 2026,12,Pearle Opticiens,6,1,2,3
+opticiens,Zwolle,november 2026,12,Oogwereld Jochem,5,2,2,1
+opticiens,Zwolle,november 2026,12,Tijs Oogmode,5,2,1,2

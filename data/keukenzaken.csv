@@ -1,0 +1,132 @@
+trade,town,measurement,answers_in_town,name,answers_with_name,answers_chatgpt,answers_aio,answers_aimode
+keukenzaken,Alkmaar,november 2026,11,I-KOOK Alkmaar,8,4,2,2
+keukenzaken,Alkmaar,november 2026,11,Keukensale Alkmaar,5,2,2,1
+keukenzaken,Alkmaar,november 2026,11,Reddy Keukens Alkmaar,5,3,0,2
+keukenzaken,Alkmaar,november 2026,11,Brugman Keukens Alkmaar,4,2,2,0
+keukenzaken,Alkmaar,november 2026,11,Eiland de Wild Keukens,4,3,1,0
+keukenzaken,Alkmaar,november 2026,11,Keukenstunter Alkmaar,4,1,1,2
+keukenzaken,Alkmaar,november 2026,11,Morss Kitchen & Interior,4,3,1,0
+keukenzaken,Almere,november 2026,10,I-KOOK Almere,9,4,1,4
+keukenzaken,Almere,november 2026,10,Keuken Atelier Almere,6,4,1,1
+keukenzaken,Almere,november 2026,10,Keukensale Almere,5,1,1,3
+keukenzaken,Almere,november 2026,10,Keukenloods Almere,4,1,1,2
+keukenzaken,Almere,november 2026,10,Kitchen4All Almere,4,3,0,1
+keukenzaken,Almere,november 2026,10,Superkeukens Almere,4,2,2,0
+keukenzaken,Amersfoort,november 2026,11,Superkeukens Amersfoort,9,3,3,3
+keukenzaken,Amersfoort,november 2026,11,Eigenhuis Keukens Amersfoort,6,4,2,0
+keukenzaken,Amersfoort,november 2026,11,Mandemakers Keukens Amersfoort,6,2,1,3
+keukenzaken,Amersfoort,november 2026,11,Marquardt Küchen Amersfoort,6,3,3,0
+keukenzaken,Amersfoort,november 2026,11,Assos Keukens & Badkamers,5,4,0,1
+keukenzaken,Barendrecht,november 2026,12,I-KOOK Barendrecht,11,4,4,3
+keukenzaken,Barendrecht,november 2026,12,Keukensale Barendrecht,8,3,4,1
+keukenzaken,Barendrecht,november 2026,12,Grando Keukens Barendrecht,7,3,4,0
+keukenzaken,Barendrecht,november 2026,12,Reddy Keukens Barendrecht,7,1,2,4
+keukenzaken,Barendrecht,november 2026,12,Mandemakers Keukens Barendrecht,6,1,4,1
+keukenzaken,Bergen op Zoom,november 2026,12,I-KOOK Bergen op Zoom,12,4,4,4
+keukenzaken,Bergen op Zoom,november 2026,12,Superkeukens Bergen op Zoom,11,4,4,3
+keukenzaken,Bergen op Zoom,november 2026,12,Bruynzeel Keukens Bergen op Zoom,10,3,4,3
+keukenzaken,Bergen op Zoom,november 2026,12,Keuken Kampioen Bergen op Zoom,9,4,4,1
+keukenzaken,Bergen op Zoom,november 2026,12,Bouwcenter Logus-De Hoop,2,2,0,0
+keukenzaken,Breda,november 2026,10,Puur Keukens Breda,9,4,2,3
+keukenzaken,Breda,november 2026,10,Keukenloods Breda,6,2,2,2
+keukenzaken,Breda,november 2026,10,Your Kitchen Breda,6,2,2,2
+keukenzaken,Breda,november 2026,10,Clear Kitchen Breda,5,3,1,1
+keukenzaken,Breda,november 2026,10,Marquardt Küchen Breda,5,0,1,4
+keukenzaken,Breda,november 2026,10,Wildhagen Designkeukens,5,3,0,2
+keukenzaken,Delft,november 2026,12,Keukensale Delft,12,4,4,4
+keukenzaken,Delft,november 2026,12,Koolschijn Siematic Huis,11,4,4,3
+keukenzaken,Delft,november 2026,12,Bruynzeel Keukens Delft,10,2,4,4
+keukenzaken,Delft,november 2026,12,Grando Keukens Delft,9,4,4,1
+keukenzaken,Delft,november 2026,12,Keuken Kampioen Delft,9,3,4,2
+keukenzaken,Den Bosch,november 2026,12,I-KOOK Den Bosch,11,4,4,3
+keukenzaken,Den Bosch,november 2026,12,Berkers Keukens,10,4,3,3
+keukenzaken,Den Bosch,november 2026,12,Grando Keukens Den Bosch,6,3,2,1
+keukenzaken,Den Bosch,november 2026,12,Superkeukens Den Bosch,6,0,4,2
+keukenzaken,Den Bosch,november 2026,12,Toplijn Keukens,6,3,2,1
+keukenzaken,Dordrecht,november 2026,11,Keukenstudio Dordrecht,11,4,3,4
+keukenzaken,Dordrecht,november 2026,11,ASWA Keukens Dordrecht,8,3,2,3
+keukenzaken,Dordrecht,november 2026,11,Voortman Keukens Dordrecht,7,4,1,2
+keukenzaken,Dordrecht,november 2026,11,Belmar Keukens,6,2,2,2
+keukenzaken,Dordrecht,november 2026,11,Bruynzeel Keukens Dordrecht,4,1,2,1
+keukenzaken,Dordrecht,november 2026,11,Keuken Kampioen Dordrecht,4,1,3,0
+keukenzaken,Dordrecht,november 2026,11,Keukenwarenhuis,4,1,2,1
+keukenzaken,Ede,november 2026,11,Keukenvisie Ede,10,4,3,3
+keukenzaken,Ede,november 2026,11,Van Ee Keukens Ede,10,4,3,3
+keukenzaken,Ede,november 2026,11,Keukencentrum AXI,9,4,2,3
+keukenzaken,Ede,november 2026,11,Keuken Kampioen Ede,6,1,3,2
+keukenzaken,Ede,november 2026,11,KüchenTreff Ede,6,2,2,2
+keukenzaken,Emmen,november 2026,10,Primo Keukens Emmen,10,4,2,4
+keukenzaken,Emmen,november 2026,10,Keukenstudio Emmen,9,4,2,3
+keukenzaken,Emmen,november 2026,10,Grando Keukens Emmen,7,4,2,1
+keukenzaken,Emmen,november 2026,10,KeukenConcurrent Emmen,6,1,2,3
+keukenzaken,Emmen,november 2026,10,Inter Art,5,2,1,2
+keukenzaken,Groningen,november 2026,10,Kitchen4All Groningen,8,4,2,2
+keukenzaken,Groningen,november 2026,10,Eigenhuis Keukens Groningen,6,4,2,0
+keukenzaken,Groningen,november 2026,10,Nove Keukens,6,4,2,0
+keukenzaken,Groningen,november 2026,10,KeukenConcurrent Groningen,4,0,1,3
+keukenzaken,Groningen,november 2026,10,Mandemakers Keukens Groningen,4,1,2,1
+keukenzaken,Heerlen,november 2026,12,Küchen Boulevard,10,3,4,3
+keukenzaken,Heerlen,november 2026,12,Nuva Keukens Heerlen,10,3,4,3
+keukenzaken,Heerlen,november 2026,12,KeukenHal Heerlen,9,4,4,1
+keukenzaken,Heerlen,november 2026,12,Keukensale Heerlen,9,3,4,2
+keukenzaken,Heerlen,november 2026,12,KeukenConcurrent Heerlen,6,1,1,4
+keukenzaken,Helmond,november 2026,11,Deeze Keukens,10,4,2,4
+keukenzaken,Helmond,november 2026,11,Reddy Keukens Helmond,10,3,3,4
+keukenzaken,Helmond,november 2026,11,ASWA Keukens,8,4,2,2
+keukenzaken,Helmond,november 2026,11,Superkeukens Helmond,8,3,3,2
+keukenzaken,Helmond,november 2026,11,Vogels Keukens en Kasten,8,4,3,1
+keukenzaken,Hoorn,november 2026,11,Keukens van Hoorn,11,4,3,4
+keukenzaken,Hoorn,november 2026,11,Sense Keukens Hoorn,9,4,3,2
+keukenzaken,Hoorn,november 2026,11,Superkeukens Hoorn,9,3,2,4
+keukenzaken,Hoorn,november 2026,11,Grando Keukens Hoorn,7,4,2,1
+keukenzaken,Hoorn,november 2026,11,Keukensale Hoorn,7,2,2,3
+keukenzaken,Leeuwarden,november 2026,9,Keukenpunt,8,4,1,3
+keukenzaken,Leeuwarden,november 2026,9,Kitchen4All Leeuwarden,8,4,1,3
+keukenzaken,Leeuwarden,november 2026,9,Steenhuizen Keukens,5,3,0,2
+keukenzaken,Leeuwarden,november 2026,9,Keuken Kampioen Leeuwarden,4,1,1,2
+keukenzaken,Leeuwarden,november 2026,9,Keukensale Leeuwarden,4,2,0,2
+keukenzaken,Leeuwarden,november 2026,9,Kvik Leeuwarden,4,3,0,1
+keukenzaken,Middelburg,november 2026,10,Interborg Keukens Middelburg,10,4,3,3
+keukenzaken,Middelburg,november 2026,10,Tulp Keukens Middelburg,7,4,3,0
+keukenzaken,Middelburg,november 2026,10,Grando Keukens Middelburg,6,4,2,0
+keukenzaken,Middelburg,november 2026,10,Superkeukens Middelburg,6,3,2,1
+keukenzaken,Middelburg,november 2026,10,Jtwee Koken en Baden,4,2,0,2
+keukenzaken,Nijmegen,november 2026,11,Keuken Design Nijmegen,9,4,3,2
+keukenzaken,Nijmegen,november 2026,11,Peters Keukeninterieurs,7,4,3,0
+keukenzaken,Nijmegen,november 2026,11,Brugman Keukens Nijmegen,6,2,3,1
+keukenzaken,Nijmegen,november 2026,11,Keuken Kampioen Nijmegen,6,0,3,3
+keukenzaken,Nijmegen,november 2026,11,Van der Stad Keukens,5,0,2,3
+keukenzaken,Purmerend,november 2026,10,Keukenhuysch,9,4,3,2
+keukenzaken,Purmerend,november 2026,10,ALL INN Keukens,8,3,2,3
+keukenzaken,Purmerend,november 2026,10,Knijn Keukens,6,4,1,1
+keukenzaken,Purmerend,november 2026,10,Groot Keuken en Bad,5,1,2,2
+keukenzaken,Purmerend,november 2026,10,Keukensale Purmerend,5,2,3,0
+keukenzaken,Purmerend,november 2026,10,Keukenstunter Purmerend,5,3,2,0
+keukenzaken,Roosendaal,november 2026,10,De Keukenschuur,10,4,3,3
+keukenzaken,Roosendaal,november 2026,10,Stoop Keukens,8,4,3,1
+keukenzaken,Roosendaal,november 2026,10,Oosterom Exclusieve Maatwerkkeukens,7,4,1,2
+keukenzaken,Roosendaal,november 2026,10,Brugman Keukens Roosendaal,6,3,1,2
+keukenzaken,Roosendaal,november 2026,10,Keukenloods Roosendaal,6,2,3,1
+keukenzaken,Spijkenisse,november 2026,11,Keukensale Spijkenisse,11,4,4,3
+keukenzaken,Spijkenisse,november 2026,11,Keukenstunter Spijkenisse,11,4,4,3
+keukenzaken,Spijkenisse,november 2026,11,Favori Keukens Spijkenisse,9,4,2,3
+keukenzaken,Spijkenisse,november 2026,11,Bruynzeel Keukens Spijkenisse,7,2,3,2
+keukenzaken,Spijkenisse,november 2026,11,KeukenConcurrent Spijkenisse,7,1,4,2
+keukenzaken,Spijkenisse,november 2026,11,Tulp Keukens Spijkenisse,7,3,4,0
+keukenzaken,Zaandam,november 2026,10,Kvik Zaandam,8,2,2,4
+keukenzaken,Zaandam,november 2026,10,KeukenConcurrent Zaandam,7,1,2,4
+keukenzaken,Zaandam,november 2026,10,Keukensale Zaandam,7,2,1,4
+keukenzaken,Zaandam,november 2026,10,De Zeug,6,4,2,0
+keukenzaken,Zaandam,november 2026,10,Keukenloods Zaandam,6,3,2,1
+keukenzaken,Zutphen,november 2026,11,Keukenland Design,11,4,3,4
+keukenzaken,Zutphen,november 2026,11,Superkeukens Zutphen,10,4,3,3
+keukenzaken,Zutphen,november 2026,11,Coenenspark Keukens,9,3,3,3
+keukenzaken,Zutphen,november 2026,11,Mandemakers Keukens Zutphen,8,2,3,3
+keukenzaken,Zutphen,november 2026,11,Boco Keukens,5,2,2,1
+keukenzaken,Zutphen,november 2026,11,Brugman Keukens Zutphen,5,2,2,1
+keukenzaken,Zwolle,november 2026,11,Satink Keukens,9,4,3,2
+keukenzaken,Zwolle,november 2026,11,Van Galen Keuken & Bad,8,3,3,2
+keukenzaken,Zwolle,november 2026,11,De Keukenheeren,6,4,1,1
+keukenzaken,Zwolle,november 2026,11,Superkeukens Zwolle,5,0,2,3
+keukenzaken,Zwolle,november 2026,11,Kvik Zwolle,4,2,2,0
+keukenzaken,Zwolle,november 2026,11,Mandemakers Keukens Zwolle,4,1,1,2
