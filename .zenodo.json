@@ -1,0 +1,11 @@
+{
+ "title": "Sysenko AI-index NL, November 2026: which local businesses ChatGPT and Google AI name per Dutch town",
+ "upload_type": "dataset",
+ "description": "Counts of business names in the answers of ChatGPT (with web search), Google AI Overview and Google AI Mode to four fixed Dutch questions per town, for 18 trades in the Netherlands. One measurement, November 2026; 3,185 rows. Method and live pages: https://sysenko.com/nl/ai-index/plaats/ . A business that does not want its name included can mail danil@sysenko.com.",
+ "creators": [{"name": "Sysenko, Danil", "affiliation": "Sysenko (D.V. Sysenko)"}],
+ "license": "cc-by-4.0",
+ "keywords": ["generative engine optimization", "AI search", "ChatGPT", "Google AI Overview", "local search", "Netherlands", "open data"],
+ "related_identifiers": [{"identifier": "https://sysenko.com/nl/ai-index/plaats/", "relation": "isSupplementTo", "resource_type": "dataset"}],
+ "language": "nld",
+ "version": "2026.11.1"
+}
