@@ -1,5 +1,7 @@
 # Sysenko AI-index NL, november 2026 / welke bedrijven noemen ChatGPT en Google AI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24483994.svg)](https://doi.org/10.5281/zenodo.24483994)
+
 ## English
 
 Counts of business names in the answers of ChatGPT (with web search), Google AI Overview and Google AI Mode to four fixed Dutch
